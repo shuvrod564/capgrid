@@ -74,7 +74,7 @@ capgrid/
 ![Dashboard, Auth](screenshots/screenshot.png)
 
 ### ✏️ Edit Caption View
-![Caption, Profile](screenshots/edit-caption.png)
+![Caption, Profile](screenshots/screenshot-2.png)
 
 ---
 
