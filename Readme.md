@@ -47,7 +47,7 @@ capgrid/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/capgrid.git
+   git clone https://github.com/shuvrod564/capgrid.git
    cd capgrid
    ```
 
